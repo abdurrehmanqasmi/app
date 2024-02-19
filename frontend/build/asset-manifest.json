@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.edc7369c.css",
+    "main.js": "./static/js/main.b0f618ee.js",
+    "static/media/instagram-icon.jpg": "./static/media/instagram-icon.f8191acd0e54751e04e5.jpg",
+    "static/media/whatsapp-icon.jpg": "./static/media/whatsapp-icon.62797454c736528e7211.jpg",
+    "static/media/shopper.png": "./static/media/shopper.217b5691ec2f7937c8a4.png",
+    "static/media/cart.png": "./static/media/cart.9f8baadfe5598139d448.png",
+    "index.html": "./index.html",
+    "main.edc7369c.css.map": "./static/css/main.edc7369c.css.map",
+    "main.b0f618ee.js.map": "./static/js/main.b0f618ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc7369c.css",
+    "static/js/main.b0f618ee.js"
+  ]
+}
